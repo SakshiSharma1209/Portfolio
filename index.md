@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Sakshi Sharma
 
-You can use the [editor on GitHub](https://github.com/SakshiSharma1209/Portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+A creative, proactive, and intuitive data enthusiast, looking to start my career in Data Science. 
+Experienced with tools like Python, R, SQL, Tableau, Power BI, Microsoft Excel. Use the application of statistics in the form of exploratory data analysis and predictive models to reveal patterns and trends in data from existing data sources through data manipulation, ETL, NLP and Machine learning algorithms. Expertise in looking at a business problem and translate it to a data question, creating models to answer the question and telling the story about the findings through insightful visualizations.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
